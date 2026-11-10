@@ -1,15 +1,15 @@
 
 
 
-# 💼 **Internship Project Report**
+# **Internship Project Report**
 
-## 🌟 **Project Title**
+## **Project Title**
 
 ### **Employee Salary Prediction System**
 
 ---
 
-## 🎓 **Internship Details**
+## **Internship Details**
 
 * **Internship Program:** **IBM SkillsBuild Virtual Internship**
 * **Supported by:** **Edunet Foundation**
@@ -27,7 +27,7 @@ The app aims to assist HR teams and employers in making **data-driven compensati
 
 ---
 
-## ⚡ **What I Built**
+## **What I Built**
 
 An end-to-end **Streamlit-based ML application** featuring:
 
@@ -86,7 +86,7 @@ An end-to-end **Streamlit-based ML application** featuring:
 
 ---
 
-## 👨‍💼 **My Role**
+##  **My Role**
 
 * Designed the overall system and workflows
 * Handled all data preprocessing and model training
@@ -96,28 +96,14 @@ An end-to-end **Streamlit-based ML application** featuring:
 
 ---
 
-## 📚 **What I Learned**
+## **What I Learned**
 
 * **Building and deploying ML apps end-to-end**
 * **Real-world data preprocessing and feature engineering**
 * **Data visualization and statistical analysis**
 * **Importance of user experience in AI tools**
 
----
 
-## 🏅 **Internship Completion**
-
-* **Certificate:** Issued via **IBM SkillsBuild** & **Edunet Foundation**
-
----
-
-## 🛠️ **Source Code**
-
-```bash
-git clone [https://github.com/DurgaPrasadPapugani/employee-salary-app.git](https://github.com/DurgA-5/SalaryPredictor.git)
-```
-
----
 
 ## 🔮 **Future Enhancements**
 
@@ -129,14 +115,14 @@ git clone [https://github.com/DurgaPrasadPapugani/employee-salary-app.git](https
 
 ---
 
-## 🙌 **Acknowledgements**
+## **Acknowledgements**
 
 Special thanks to **Edunet Foundation** and **IBM SkillsBuild** for the valuable opportunity.
 This project helped enhance my **AI/ML, software engineering**, and **deployment** skills in a practical, impactful way.
 
 ---
 
-## 📘 **About This Repository**
+##  **About This Repository**
 
 * **Language:** Python & Jupyter Notebooks
 * **Technologies:** Flask, HTML, CSS, JS, Scikit-learn, XGBoost, SHAP, PyMuPDF
@@ -145,7 +131,7 @@ This project helped enhance my **AI/ML, software engineering**, and **deployment
 ---
 
 
-* 📸 Screenshots
+* Screenshots
 <img width="2000" height="933" alt="image" src="https://github.com/user-attachments/assets/79de9225-5bb1-43d6-abc4-4dc690412bc6" />
 
 <img width="244" height="1125" alt="image" src="https://github.com/user-attachments/assets/4e32941f-c495-4f1c-a807-e0a1a9edb8cc" />
